@@ -1,0 +1,9 @@
+Conteo de Sentimientos
+Sentimiento: Irrelevant| Conteo: 12990
+Sentimiento: Neutral| Conteo: 18318
+Sentimiento: Negative| Conteo: 22542
+Sentimiento: Positive| Conteo: 20832
+Promedio de Tweets de cada Sentimiento
+Sentimiento: Neutral| Promedio: 115.82601812424937
+Sentimiento: Negative| Promedio: 107.22509094135391
+Sentimiento: Positive| Promedio: 93.60291858678956
